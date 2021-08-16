@@ -1,6 +1,6 @@
 /* Copyright (C) 2020 Yusuf Usta.
-re codded by afnanplk
-PINKY V2 
+re codded by Anzif
+LUCIE V2 
 */
 
 const Asena = require('../events');
