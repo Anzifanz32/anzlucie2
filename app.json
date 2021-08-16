@@ -1,9 +1,9 @@
 {
-    "name": "PINKY V2 BY AFNAN PLK",
-    "description": "pinky bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
+    "name": "LUCIE V2 BY ANZIF",
+    "description": "LUCIE bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
     "logo": "https://avatars.githubusercontent.com/u/83832372?v=4",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/afnanplk/lastpink",
+    "repository": "https://github.com/Anzifanz32/anzlucie2",
     "website":   "under maintenance",
     "success_url": "under maintenance",
     "stack": "container",
@@ -34,7 +34,7 @@
          "STICKER_REPLY": {
             "description": "if you need Automatic sticker reply type'true'. Otherwise false",
             "required": false,
-            "value": "true"
+            "value": "false"
         },  
          "THERI_KICK": {
             "description": "THERI VILICHAL KICK IF TRUE , just keep it false as this option is under maintanance ",
@@ -89,7 +89,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏PINKY BOT⤎╾━━━•"
+            "value": "•━━━━╼⤏LUCIE BOT⤎╾━━━•"
         },
         "HEROKU_API_KEY": {
             "description": "Herokuda API Keyiniz. Heroku API Key.",
@@ -128,7 +128,7 @@
         "WORK_TYPE": {
             "description": "WhatsAsena Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
-            "value": "private"
+            "value": "public"
         },
         "HEROKU_APP_NAME": {
             "description": "Herokuda uygulama adı. Heroku APP Name.",
@@ -146,7 +146,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "i am alive  \n\n ```coded by afnan pallikkel```"
+            "value": "i am alive  \n\n ```coded by Anzif```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
