@@ -1,8 +1,8 @@
 /* Copyright (C) 2021 AFNAN PALLIKKEL
-CODDED AFNAN PALLIKKEL
+CODDED Anzif
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-PINKY
+LUCIE
 */
 
 const Asena = require('../events');
@@ -25,7 +25,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'Pinky Bot created by *Afnan pallikkel*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'LUCIE Bot created by *ANZIF*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n---------------------', MessageType.text);
@@ -43,7 +43,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'Pinky Bot created by *Afnan pallikkel*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'LUCIE Bot created by *ANZIF*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n--------------------', MessageType.text);
